@@ -1,0 +1,7 @@
+review_id,customer_text,speech_tempo_bpm,pitch_mean_hz,energy_rms,actual_sentiment
+R001,"I am absolutely thrilled with this purchase, it exceeded all my expectations!",120,180,0.065,Positive
+R002,"This product broke after two days of use and customer support was completely unhelpful.",150,220,0.088,Negative
+R003,"It is an okay device for the price point, nothing special but gets the job done.",100,140,0.035,Neutral
+R004,"Terrible experience! The delivery was delayed by two weeks and the box was damaged.",155,230,0.092,Negative
+R005,"Amazing quality and super fast shipping! I will definitely buy again.",125,185,0.070,Positive
+R006,"The item works fine, though the instructions were a bit hard to follow.",105,145,0.038,Neutral
